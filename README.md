@@ -6,4 +6,4 @@ Codigo fuente de la implementación algortimo de KNN para la clase de minería d
 ### Maldonado Mendoza Diego Rafael
 ### Quintero Quiroz Sergio Alberto
 ## Profesor
-Guzmán Montes Carlos Alberto
+###Guzmán Montes Carlos Alberto
